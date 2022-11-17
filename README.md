@@ -21,7 +21,7 @@ Method 2 works fine every time， but it's not satisfying. Method 5 is perfect a
   
   You can find my results in StarGAN-Audio/samples
   
-  If you want to try on your own, run the preprocess.py first, and you can look up in the repository I refer to above.
+  If you want to try on your own, run the preprocess.py first, and you can look up in the repository I refer to above. The dataset is big, download by your own.
   
 # Method 2 (NN):
   The biggest difference between method 1 and 2 is not the network they use, it's the dataset. Method 2 requires the dataset is alligned (see NN/snG and NN/snP).
